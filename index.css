@@ -1,0 +1,21 @@
+.grid {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    border: solid black 2px;
+    overflow: hidden;
+}
+
+.bar {
+    position: absolute;
+    width: 30px;
+    background-color: lightgrey;
+}
+
+.bird {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: red;
+}
